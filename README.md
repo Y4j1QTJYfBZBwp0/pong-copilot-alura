@@ -16,7 +16,6 @@ I developed a Pong game, if you haven't played this game yet, it's basically a b
 * GitHub Copilot
 * GitHub Copilot Labs
 * P5Js
-* 
 
 ## Sounds:
 * [Bounce sound](https://freesound.org/people/JustInvoke/sounds/446100/)
